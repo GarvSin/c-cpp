@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634431498 source:i:\repository\github\c-cpp\investment-projection\main.cpp
+	<iostream>
+	<math.h>
+

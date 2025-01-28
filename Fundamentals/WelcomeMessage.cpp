@@ -6,7 +6,7 @@ int main()
     string name;
 
     cout<<"May I know your name?";
-    /*cin>>name; it will take only one word*/
+    /*cin>>name; it will take only one word -- what was this?*/
     getline(cin,name);
 
     cout<<"Welcome Mr/Miss "<<name<<endl;
